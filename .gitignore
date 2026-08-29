@@ -1,0 +1,24 @@
+# Node / TypeScript
+node_modules/
+dist/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Java
+target/
+*.class
+
+# Entornos
+.env
+.env.local
+
+# Sistema
+.DS_Store
+
+# shell scripts
+*.sh
